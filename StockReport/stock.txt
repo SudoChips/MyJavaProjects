@@ -1,0 +1,15 @@
+IBM
+International Business Machinery
+1000 35.45 45.21
+APPL
+Apple Computer Corporation
+1200 15.45 36.21
+SBUX
+Starbucks Coffee Inc.
+1000 3.45 5.21
+F
+The Ford Motor Company
+1000 35.45 15.21
+NFLX
+Netflix Inc.
+1000 65.45 82.31
