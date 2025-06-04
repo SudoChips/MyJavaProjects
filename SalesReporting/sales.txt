@@ -1,0 +1,8 @@
+Northern Region
+143 36,654,492.16
+Southern Region
+121 23,986,344.25
+Eastern Region
+151 31,010,756.75
+Western Region
+105 32,040,291.15

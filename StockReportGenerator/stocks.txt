@@ -1,0 +1,15 @@
+56.59 56.34 56.24 56.77
+XOM
+Exxon Mobile
+72.69 72.60 71.95 73.12
+C
+Citi Group Inc
+81.85 82.55 81.66 83.12
+CHWY
+Chewy Inc.
+66.25 65.56 65.38 66.57
+INTC
+Intel Corporation
+111.43 112.60 110.96 113.78
+CHH
+Choice Hotel
