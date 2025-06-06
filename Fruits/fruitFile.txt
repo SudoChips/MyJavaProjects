@@ -1,0 +1,40 @@
+Bananas
+0.17 3
+Apples
+1.24 5
+Peaches
+1.39 4
+Watermelon
+0.38 6
+Oranges
+1.06 4
+Bananas
+0.17 3
+Apples
+1.24 5
+Peaches
+1.39 4
+Watermelon
+0.38 6
+Oranges
+1.06 4
+Bananas
+0.17 3
+Apples
+1.24 5
+Peaches
+1.39 4
+Watermelon
+0.38 6
+Oranges
+1.06 4
+Bananas
+0.17 3
+Apples
+1.24 5
+Peaches
+1.39 4
+Watermelon
+0.38 6
+Oranges
+1.06 4
